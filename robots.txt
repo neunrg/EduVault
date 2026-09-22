@@ -1,0 +1,8 @@
+# EduVault - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://www.eduvault.in/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
